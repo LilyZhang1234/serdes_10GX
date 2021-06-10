@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <window width="1100" height="802" x="67" y="5" />
+ <generation path="" simulation="NONE" clear_previous="1" />
+ <library
+   expandedCategories="Existing IP Variants,IP-XACT Components,Project,Library" />
+</preferences>

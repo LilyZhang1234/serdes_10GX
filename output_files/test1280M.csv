@@ -1,0 +1,61 @@
+# Copyright (C) 2021  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and any partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+
+# Quartus Prime Version 21.1.0 Build 169 03/24/2021 SC Pro Edition
+# File: C:\Users\L\Desktop\Reasearch_Lab\Dr_Ye_pt_2\datao_lily_PAM4\testcyclone10GX1280M\output_files\test1280M.csv
+# Generated on: Thu May 27 13:34:56 2021
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,VCCR_GXB/VCCT_GXB Voltage,Strict Preservation
+source_out[15](n),Output,PIN_G1,3B,,Differential 1.2-V SSTL,,,,source_out[15],,
+source_out[15],Output,PIN_H1,3B,PIN_U4,Differential 1.2-V SSTL,,,,source_out[15](n),,
+source_out[14](n),Output,PIN_N3,3B,,Differential 1.2-V SSTL,,,,source_out[14],,
+source_out[14],Output,PIN_N2,3B,PIN_V6,Differential 1.2-V SSTL,,,,source_out[14](n),,
+source_out[13](n),Output,PIN_T3,3B,,Differential 1.2-V SSTL,,,,source_out[13],,
+source_out[13],Output,PIN_T2,3B,PIN_L1,Differential 1.2-V SSTL,,,,source_out[13](n),,
+source_out[12](n),Output,PIN_U4,3B,,Differential 1.2-V SSTL,,,,source_out[12],,
+source_out[12],Output,PIN_U3,3B,PIN_W2,Differential 1.2-V SSTL,,,,source_out[12](n),,
+source_out[11](n),Output,PIN_U1,3B,,Differential 1.2-V SSTL,,,,source_out[11],,
+source_out[11],Output,PIN_V1,3B,PIN_V1,Differential 1.2-V SSTL,,,,source_out[11](n),,
+source_out[10](n),Output,PIN_Y2,3A,,Differential 1.2-V SSTL,,,,source_out[10],,
+source_out[10],Output,PIN_Y1,3A,PIN_U1,Differential 1.2-V SSTL,,,,source_out[10](n),,
+source_out[9](n),Output,PIN_Y5,3A,,Differential 1.2-V SSTL,,,,source_out[9],,
+source_out[9],Output,PIN_W5,3A,PIN_V7,Differential 1.2-V SSTL,,,,source_out[9](n),,
+source_out[8](n),Output,PIN_AB5,3A,,Differential 1.2-V SSTL,,,,source_out[8],,
+source_out[8],Output,PIN_AB6,3A,PIN_T8,Differential 1.2-V SSTL,,,,source_out[8](n),,
+source_out[7](n),Output,PIN_W7,3A,,Differential 1.2-V SSTL,,,,source_out[7],,
+source_out[7],Output,PIN_W8,3A,PIN_P4,Differential 1.2-V SSTL,,,,source_out[7](n),,
+source_out[6](n),Output,PIN_Y4,3A,,Differential 1.2-V SSTL,,,,source_out[6],,
+source_out[6],Output,PIN_W4,3A,PIN_T7,Differential 1.2-V SSTL,,,,source_out[6](n),,
+source_out[5](n),Output,PIN_V8,3B,,Differential 1.2-V SSTL,,,,source_out[5],,
+source_out[5],Output,PIN_U8,3B,PIN_H1,Differential 1.2-V SSTL,,,,source_out[5](n),,
+source_out[4](n),Output,PIN_U5,3B,,Differential 1.2-V SSTL,,,,source_out[4],,
+source_out[4],Output,PIN_T4,3B,PIN_K1,Differential 1.2-V SSTL,,,,source_out[4](n),,
+source_out[3](n),Output,PIN_AA8,3A,,Differential 1.2-V SSTL,,,,source_out[3],,
+source_out[3],Output,PIN_AA9,3A,PIN_P3,Differential 1.2-V SSTL,,,,source_out[3](n),,
+source_out[2](n),Output,PIN_V7,3B,,Differential 1.2-V SSTL,,,,source_out[2],,
+source_out[2],Output,PIN_U6,3B,PIN_G1,Differential 1.2-V SSTL,,,,source_out[2](n),,
+source_out[1](n),Output,PIN_T9,3B,,Differential 1.2-V SSTL,,,,source_out[1],,
+source_out[1],Output,PIN_T8,3B,PIN_U3,Differential 1.2-V SSTL,,,,source_out[1](n),,
+source_out[0](n),Output,PIN_T7,3B,,Differential 1.2-V SSTL Class I,,,,source_out[0],,
+source_out[0],Output,PIN_T6,3B,PIN_U8,Differential 1.2-V SSTL Class I,,,,source_out[0](n),,
+pb[1],Input,PIN_AD4,3A,PIN_K4,,,,,,,
+pb[0],Input,PIN_AE4,3A,PIN_W3,,,,,,,
+led[1],Output,PIN_AC7,3A,PIN_R1,,,,,,,
+led[0],Output,PIN_AF6,3A,PIN_H2,,,,,,,
+FPGA_RESETn,Input,PIN_AC12,2A,PIN_AC12,1.2 V,,,,,,
+FMCAclk40(n),Input,PIN_M1,3B,PIN_M1,LVDS,,,,FMCAclk40,,
+FMCAclk40,Input,PIN_N1,3B,PIN_N1,LVDS,,,,FMCAclk40(n),,
